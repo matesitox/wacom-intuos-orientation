@@ -7,6 +7,7 @@ Works on ubuntu 16.04.02 desktop with Wacom Intuos Creative tablet.
 ## usage
 
 `$ tablet horizontal` sets the orientation to default
+
 `$ tablet vertical` sets the orientation to vertical
 
 ## sources
